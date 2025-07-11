@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "www.catalystedge.com",
+    "description": "",
+    "home_page_url": "https://github.com/catalystedge/catalystedgeweb.git",
+    "feed_url": "https://github.com/catalystedge/catalystedgeweb.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Satish Sankaranarayanan"
+    },
+    "items": [
+    ]
+}
